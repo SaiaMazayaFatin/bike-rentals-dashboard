@@ -1,6 +1,5 @@
-List library for this project: 
-1. pandas
-2. numpy
-3. matplotlib
-4. seaborn
-5. warning
+pandas
+numpy
+matplotlib
+seaborn
+warning
