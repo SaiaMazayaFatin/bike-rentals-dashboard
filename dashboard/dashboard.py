@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 # Load data
-clean_df_hour = pd.read_csv('final_hour.csv')
-clean_df_day = pd.read_csv('final_day.csv')
+clean_df_hour = pd.read_csv('dashboard/final_hour.csv')
+clean_df_day = pd.read_csv('dashboard/final_day.csv')
 
 # Rename columns
 clean_df_day = clean_df_day.rename(columns={
